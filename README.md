@@ -19,7 +19,7 @@
     <a href="https://github.com/hugolee003/blogify#readme"><strong>Explore the docs »</strong></a>
     <br />
     <br />
-    <a href="https://blogolicious.cyclic.app/">Demo</a>
+    <a href="https://graceful-teal-flip-flops.cyclic.app">Demo</a>
     ·
     <a href="https://github.com/hugolee003/blogify/issues">Report Bug</a>
     ·
@@ -178,7 +178,7 @@ npm run test
 
 ### Base URL
 
-- https://blogolicious.cyclic.app
+- https://graceful-teal-flip-flops.cyclic.app
 
 ### Creating a user
 
