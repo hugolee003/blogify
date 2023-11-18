@@ -27,7 +27,7 @@
 
 ## Blogify
 
-&mdash; a simple Blogging API which i built as an exam project by <a href="https://www.github.com/hugolee003">Ugochukwu</a>, a Backend Engineering student at <a href="https://altschoolafrica.com/schools/engineering">AltSchool Africa</a>.
+&mdash; a simple Blogging API which I built as an exam project by <a href="https://www.github.com/hugolee003">Ugochukwu</a>, a Backend Engineering student at <a href="https://altschoolafrica.com/schools/engineering">AltSchool Africa</a>.
 
 <p align="right"><a href="#readme-top">back to top</a></p>
 
@@ -62,7 +62,7 @@
 
 - [x] A blog can be in two states; draft and published
 
-- [x] Logged in and not logged in users should be able to get a list of published blogs created
+- [x] Logged-in and not logged-in users should be able to get a list of published blogs created
 
 - [x] Logged in and not logged in users should be able to to get a published blog
 
